@@ -14,6 +14,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - ⚡ Fun fact: I love chapati
 
 Languages and Tools
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg"><img height="50" src="https://github.com/abranhe/programming-languages-logos/raw/master/src/java/java.svg" style="max-width: 100%;"></a>    
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin.svg"><img height="50" src="https://github.com/abranhe/programming-languages-logos/raw/master/src/kotlin/kotlin.svg" style="max-width: 100%;"></a> 
   <atarget="_blank"rel="noopenernoreferrer"href="https://camo.githubusercontent.com/0b49b01170367a155f08e3007b7343de0a558a41753bf3cc20259c38506ebe0a/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f76697375616c73747564696f2d312d313137343936342e706e67"><img height="50" src="https://camo.githubusercontent.com/0b49b01170367a155f08e3007b7343de0a558a41753bf3cc20259c38506ebe0a/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f76697375616c73747564696f2d312d313137343936342e706e67" alt="Visualstudio Icon" data-canonical-src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" style="max-width: 100%;"></a>  
