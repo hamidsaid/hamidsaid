@@ -24,10 +24,8 @@ Languages and Tools
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cd703afbd72dc9577b10cfd0350d52e7ea02b80f41873227809d35a7ba495c36/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313030302f312a696c433241717035735a6431776930436f70443148772e706e67"><img height="50" src="https://camo.githubusercontent.com/cd703afbd72dc9577b10cfd0350d52e7ea02b80f41873227809d35a7ba495c36/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313030302f312a696c433241717035735a6431776930436f70443148772e706e67" data-canonical-src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="max-width: 100%;"></a>
    
 </p>
+<h2>GitHub Statistics</h2>
 
-<h2 dir="auto"><a id="user-content-github-statistics" class="anchor" aria-hidden="true" href="#github-statistics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>GitHub Statistics</h2>
-<a target="_blank" rel="noopener noreferrer" 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidsaid&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   
