@@ -34,4 +34,4 @@ Languages and Tools
 <p dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/1df7aadded501e19433c18e39258e27ae96964523f528d1d80bc5ccf1635f96c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7573656261737469616e3937" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidsaid" style="max-width: 100%;"></a></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidsaid)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidsaid&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
