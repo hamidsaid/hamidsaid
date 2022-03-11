@@ -14,7 +14,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - ⚡ Fun fact: I love chapati
 
 Languages and Tools
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg"><img height="50" src="https://github.com/abranhe/programming-languages-logos/raw/master/src/java/java.svg" style="max-width: 100%;"></a>    
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin.svg"><img height="50" src="https://github.com/abranhe/programming-languages-logos/raw/master/src/kotlin/kotlin.svg" style="max-width: 100%;"></a> 
@@ -26,6 +25,7 @@ Languages and Tools
   <a> <img height="50" src="https://camo.githubusercontent.com/cd703afbd72dc9577b10cfd0350d52e7ea02b80f41873227809d35a7ba495c36/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313030302f312a696c433241717035735a6431776930436f70443148772e706e67" data-canonical-src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="max-width: 100%;"></a>
   
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/flutter/flutter.png" height="50">
    
 </p>
 <h2>GitHub Statistics</h2>
