@@ -11,7 +11,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: hamidsaid777@gmail.com
 - 😄 Pronouns: Mid
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: I am a dj, well used to
 
 <h2>Languages and Tools:</h2>
 
