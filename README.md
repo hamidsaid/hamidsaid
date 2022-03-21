@@ -30,7 +30,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/bc60041f5ea7b022c6419b73a15aaac12a2ede682867ec0d3e3c9ec374dce54b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/git.png" style="max-width: 100%;"> </a> 
    
 <h2>GitHub Statistics</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidsaid&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   
