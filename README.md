@@ -15,7 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <h2>Languages and Tools:</h2>
 
-<a href="https://github.com/maestrowscki10/github-readme-stats"><img alt="Samatar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestrowscki10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/hamidsaid/github-readme-stats"><img alt="Samatar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidsaid&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <p align="left" dir="auto"> 
    <src="https://camo.githubusercontent.com/38b72f440cbf774558b9399b27bf659066e94b1eddc4510a9607ced1f028f6d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/react-native.png" style="max-width: 100%;"> </a>
